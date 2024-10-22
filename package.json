@@ -1,0 +1,24 @@
+{
+  "name": "javascriptbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouzianeseffah/javascriptBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzianeseffah/javascriptBackend/issues"
+  },
+  "homepage": "https://github.com/bouzianeseffah/javascriptBackend#readme",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21"
+  }
+}
